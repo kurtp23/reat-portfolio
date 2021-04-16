@@ -8,6 +8,23 @@ class Portfolio extends React.Component {
             <div className="card-content center-align">
               <div className="col-8">
                 <div className="constainer bg-light center-align">
+                  <div className="card s12 m7">
+                    <img
+                      width="600px"
+                      id="placeholder"
+                      src="https://i.postimg.cc/rp5CCRHc/googlebooks.png"
+                      alt="googlebooks"
+                    />
+
+                    <p>
+                      This a react app to search google books
+                      <a href="https://salty-castle-05179.herokuapp.com/"> books live link</a>
+                    </p>
+                    <p>
+                      GitHub Link:
+                      <a href="https://github.com/kurtp23/google-books-search"> Books</a>
+                    </p>
+                  </div>
                   <div className="card s4 m7">
                     <img
                       width="600px"
