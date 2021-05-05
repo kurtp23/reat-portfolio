@@ -29,24 +29,7 @@ class Portfolio extends React.Component {
                       <a href="https://github.com/kurtp23/language-app"> Language App</a>
                     </p>
                   </div>
-                  <div className="card s4 m7">
-                    <img
-                      width="600px"
-                      id="placeholder"
-                      src="https://i.postimg.cc/wjTJBgW3/screencapture-arcane-peak-55315-herokuapp-view-2021-03-10-13-12-42.png"
-                      alt="Recipe Book"
-                    />
-                    <p>
-                      This is an online application to create/view recipes
-                      <a href="https://arcane-peak-55315.herokuapp.com/login">
-                        {" "}
-                        RecipeBook live link
-                      </a>
-                    </p>
-                    <p>
-                      GitHub Link:<a href="https://github.com/kurtp23/recipe-book"> RecipeBook</a>
-                    </p>
-                  </div>
+
                   <div className="card s12 m7">
                     <img
                       width="600px"
